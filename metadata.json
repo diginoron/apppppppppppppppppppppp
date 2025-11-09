@@ -1,0 +1,5 @@
+{
+  "name": "Thesis Topic Generator",
+  "description": "A React application that suggests three thesis topics based on user-provided keywords using the Gemini API.",
+  "requestFramePermissions": []
+}
