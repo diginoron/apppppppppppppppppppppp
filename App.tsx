@@ -62,7 +62,7 @@ const App: React.FC = () => {
 
       <footer className="mt-8 text-center text-gray-600 text-sm">
         <p>با ❤️ توسط Gemini API ساخته شده است.</p>
-        <p className="mt-2">لطفاً کلید API را در متغیر محیطی Vercel (API_KEY) تنظیم کنید.</p>
+        <p className="mt-2">لطفاً کلید API را در متغیر محیطی Vercel (API_KEY) برای API Route بک‌اند تنظیم کنید.</p>
       </footer>
     </div>
   );
